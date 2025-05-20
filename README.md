@@ -1,4 +1,3 @@
-# Fabric_DP700_lab09
 # 🚴 Ingesting Real-Time Bike Data with Eventstream in Microsoft Fabric
 
 ## 🎯 Purpose of the Lab
