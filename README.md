@@ -100,7 +100,7 @@ Used the following KQL query on the `bikes-by-street` table:
 - Setting up **Eventhouse** and connecting to **KQL databases**
 - Performing real-time data transformation using **no-code UI**
 - Writing and running **KQL queries** for time-based analysis
-- Creating a full real-time streaming pipeline with **zero backend code**
+
 
 ---
 
